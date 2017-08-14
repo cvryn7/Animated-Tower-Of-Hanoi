@@ -2,4 +2,4 @@
 <p>Developed using Java</p>
 
 <p>Checkout the video and usage instructions:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2YMIPzPzy6I" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/2YMIPzPzy6I/0.jpg)](http://www.youtube.com/watch?v=2YMIPzPzy6I&feature=youtu.be)
